@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on data-oriented microservices
-- 🌱 I’m currently learning Deep Reinforcement Learning and fundamentals of Bayesian theory
+- 🔭 I’m currently working on recommendation systems
+- 🌱 I’m currently learning Deep Reinforcement Learning and causality
 - 👯 I’m looking to collaborate on Cognitive systems projects
 - 💬 Ask me about Deep Learning projects, ML web app prototyping
 - 📫 How to reach me: gian.angelini@hotmail.com
